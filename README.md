@@ -1,2 +1,3 @@
 # hello-world
 repository test
+This is to help me understand how this source code control system works...
